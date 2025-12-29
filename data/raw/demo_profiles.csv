@@ -1,0 +1,3 @@
+age,systolic_blood_pressure,diastolic_blood_pressure,blood_sugar,hemoglobin,heart_rate,bmi,parity,anc_visits,location
+17,130,80,150,7.5,90,17.0,0,0,rural
+28,110,70,85,12.5,75,22.0,1,4,urban

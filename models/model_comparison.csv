@@ -1,0 +1,7 @@
+model,accuracy,accuracy_pct
+xgboost,0.8620689655172413,86.21%
+random_forest,0.8522167487684729,85.22%
+lightgbm,0.8522167487684729,85.22%
+ensemble,0.9655,96.55%
+final_model,0.9655,96.55%
+logistic_regression,0.6305418719211823,63.05%

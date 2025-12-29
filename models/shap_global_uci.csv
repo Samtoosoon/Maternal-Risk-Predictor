@@ -1,0 +1,11 @@
+feature,shap_mean_abs
+blood_sugar,0.17678071825388347
+systolic_blood_pressure,0.10887152072894957
+diastolic_blood_pressure,0.050020881937221234
+age,0.047613356358545654
+heart_rate,0.03841673066550147
+hemoglobin,0.0
+bmi,0.0
+parity,0.0
+anc_visits,0.0
+location_rural,0.0
