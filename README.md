@@ -1,11 +1,10 @@
 # Maternal Risk Predictor
 
-📊 **Hackathon PPT:**  
-https://drive.google.com/file/d/1j8Z88RzYwY-M21M3b428HsxSLj8Y5jTS/view?usp=sharing  
+### 🔗  Links
+- 📊 **[Hackathon PPT – System & Results](https://drive.google.com/file/d/1j8Z88RzYwY-M21M3b428HsxSLj8Y5jTS/view?usp=sharing)**
+- 🎥 **[Live Demo Video](https://drive.google.com/file/d/1vedg1UMUuWxuG5MFf7HgmtxU2oNxoITQ/view)**
 
-🎥 **Demo Video:**  
-https://drive.google.com/file/d/1vedg1UMUuWxuG5MFf7HgmtxU2oNxoITQ/view  
-
+---
 ---
 
 An **AI-powered web application** that predicts **maternal pregnancy risk** (**Low / Medium / High**) using basic clinical and demographic inputs.  
