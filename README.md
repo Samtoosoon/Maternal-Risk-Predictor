@@ -5,7 +5,6 @@
 - 🎥 **[Live Demo Video](https://drive.google.com/file/d/1vedg1UMUuWxuG5MFf7HgmtxU2oNxoITQ/view)**
 
 ---
----
 
 An **AI-powered web application** that predicts **maternal pregnancy risk** (**Low / Medium / High**) using basic clinical and demographic inputs.  
 Built to support **ASHA and frontline health workers** in early identification of high-risk pregnancies, enabling timely interventions—especially in **rural and low-resource settings**.
